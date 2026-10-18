@@ -6,7 +6,7 @@
 
 <p align="center">
   <!-- TODO: kendi siteni yaz (leffloard.xyz / leffloard.wtf hangisi aktifse) -->
-  <a href="https://leffloard.xyz"><img src="https://img.shields.io/badge/website-leffloard.xyz-0d1117?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://leffloard.wtf"><img src="https://img.shields.io/badge/website-leffloard.xyz-0d1117?style=flat-square&logo=googlechrome&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=leffloard&style=flat-square&color=0d1117&label=profile+views" />
 </p>
 
